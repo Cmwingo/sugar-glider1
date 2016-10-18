@@ -37,3 +37,13 @@ ul.important{
   font-weight: bolder;
   font-size: 15;
 }
+
+.dark-background {
+  background-color: black;
+  color: white;
+}
+
+.light-background {
+  background-color: white;
+  color: black;
+}
